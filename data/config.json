@@ -1,0 +1,13 @@
+{
+    "strategy": "BestQuality",
+    "requirements" : 
+	{
+	    "regular": 24,
+	    "gluten-free": 4,
+	    "vegetarian": 5
+	}
+	
+     
+
+}
+

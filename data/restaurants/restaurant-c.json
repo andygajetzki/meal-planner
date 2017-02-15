@@ -1,0 +1,20 @@
+{
+  "name": "Restaurant C",
+  "rating": 1,
+  "capacity": 1400,
+  "cuisines": [
+    {
+      "type": "regular",
+      "capacity": 100
+    },
+    {
+      "type": "vegetarian",
+      "capacity": 20
+    },
+    {
+      "type": "gluten-free",
+      "capacity": 20
+    }
+
+  ]
+}

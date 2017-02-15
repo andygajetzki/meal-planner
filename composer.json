@@ -1,0 +1,11 @@
+{
+    "name": "andy/cisco",
+    "authors": [
+        {
+            "name": "andy gajetzki",
+            "email": "andy@gajetzki.com"
+        }
+    ],
+    "autoload": {"psr-4": {"Meals\\":  "src/"}},
+    "require": {}
+}
